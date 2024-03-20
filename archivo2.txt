@@ -1,1 +1,2 @@
 Texto archivo 2
+texto 2 archivo 2
